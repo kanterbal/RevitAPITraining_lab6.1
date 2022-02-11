@@ -2,7 +2,9 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab6.1.dll"</Assembly>		
-		<AddInId>C6945321-140F-47E3-ABE4-705B9CEA9527</AddInId>
+		<AddInId>
+			FD015BC8-1FAE-445A-BC0F-7B5ED910E8B2
+		</AddInId>
 		<FullClassName>RevitAPITraining_lab6._1.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Создание воздуховода</Text>
